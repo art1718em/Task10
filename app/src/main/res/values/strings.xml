@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Task10</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input_name">Введите имя</string>
+    <string name="write_name">Записать имя</string>
+    <string name="get_name">Получить имя</string>
+    <string name="edit_name">Изменить имя</string>
+    <string name="delete_name">Удалить имя</string>
+    <string name="go_to_second_fragment">Перейти на второй фрагмент</string>
+    <string name="input_car_number">Введите номер машины</string>
+    <string name="input_car_mark">Введите марку машины</string>
+    <string name="input_car_model">Введите модель машины</string>
+    <string name="input_car_color">Введите цвет машины</string>
+    <string name="save">Сохранить</string>
+    <string name="update">Обновить</string>
+    <string name="delete">Удалить</string>
+    <string name="find">Найти</string>
+    <string name="mark">Марка</string>
+    <string name="model">Модель</string>
+    <string name="color">Цвет</string>
+    <string name="number">Номер</string>
+</resources>
